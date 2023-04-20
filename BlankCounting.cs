@@ -37,7 +37,18 @@ namespace ThongTinHocVien
             new SinhVien { HoTen = "Nguyễn công nghĩa", GioiTinh = "Nam", NgaySinh = new DateTime(2002, 5, 3), TruongHoc = "hb âcdemy", NoiO = "hà nội", QueQuan = "hà nội" },
             new SinhVien { HoTen = "Nguyễn chiều dương", GioiTinh = "Nam", NgaySinh = new DateTime(2004, 11, 9), TruongHoc = "greenwich", NoiO = "Vinhome", QueQuan = "Hà nội" },
             new SinhVien { HoTen = "Đặng thành long", GioiTinh = "Nam", NgaySinh = new DateTime(1999, 7, 16), TruongHoc = "hb academy", NoiO = "hà nội", QueQuan = "Hà nam" },
-
+            //new SinhVien { Ho = "Lê Hồng", Ten = "Nhung", GioiTinh = "Nữ", NgaySinh = new DateTime(2004, 8, 25), TruongHoc = "NEU", NoiO = "Chung cư hoàng huy", QueQuan = "Thanh Hóa" },
+            //new SinhVien { Ho = "Trần Minh", Ten = "Đức", GioiTinh = "Nam", NgaySinh = new DateTime(2002, 2, 13), TruongHoc = "Trường Kinh doanh Công nghệ", NoiO = "Hà Nội", QueQuan = "Hải Dương" },
+            //new SinhVien { Ho = "Vũ Đức", Ten = "Nam" GioiTinh = "Nam", NgaySinh = new DateTime(2003, 5, 10), TruongHoc = "Cao đẳng fpt ponitechnich", NoiO = "Hà Nội", QueQuan = "Hải Dương" },
+            //new SinhVien { Ho = "Lê Đinh Hùng", Ten = "Anh", GioiTinh = "Nam", NgaySinh = new DateTime(2003, 4, 27), TruongHoc = "Lam Sơn", NoiO = "ktx Bách Khoa", QueQuan = "Thanh hóa" },
+            //new SinhVien { Ho = "Nguyễn Trần", Ten = "Minh", GioiTinh = "Nam", NgaySinh = new DateTime(2003, 3, 25), TruongHoc = "HUST", NoiO = "250 minh khai", QueQuan = "Thái Bình" },
+            //new SinhVien { Ho = "Lê Xuân", Ten = "Phuc", GioiTinh = "Nam", NgaySinh = new DateTime(2004, 2, 17), TruongHoc = "HUST", NoiO = "Hà Nội", QueQuan = "Thanh Hóa" },
+            //new SinhVien { Ho = "Hòang Trung", Ten = "Khai", GioiTinh = "Nam", NgaySinh = new DateTime(2004, 10, 9), TruongHoc = "HUST", NoiO = "hoàng mai", QueQuan = " thanh hóa" },
+            //new SinhVien { Ho = "Bùi Quốc", Ten = "Bảo", GioiTinh = "Nam", NgaySinh = new DateTime(2004, 8, 14), TruongHoc = "HUST", NoiO = "đống đa", QueQuan = "thanh hóa" },
+            //new SinhVien { Ho = "Nguyễn ngọc", Ten = "Châu", GioiTinh = "Nam", NgaySinh = new DateTime(2001, 1, 17), TruongHoc = "đại học cần thơ", NoiO = "cần thơ", QueQuan = "sóc trăng" },
+            //new SinhVien { Ho = "Nguyễn công", Ten = "Nghia", GioiTinh = "Nam", NgaySinh = new DateTime(2002, 5, 3), TruongHoc = "hb âcdemy", NoiO = "hà nội", QueQuan = "hà nội" },
+            //new SinhVien { Ho = "Nguyễn chiều", Ten = "Dương", GioiTinh = "Nam", NgaySinh = new DateTime(2004, 11, 9), TruongHoc = "greenwich", NoiO = "Vinhome", QueQuan = "Hà nội" },
+            //new SinhVien { Ho = "Đặng thành", Ten = "Long", GioiTinh = "Nam", NgaySinh = new DateTime(1999, 7, 16), TruongHoc = "hb academy", NoiO = "hà nội", QueQuan = "Hà nam" },
             };
 
             WriteLine("Thông tin học viên :");
